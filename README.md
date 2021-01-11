@@ -6,5 +6,10 @@ The zip file contains a solution, which there are four diffrent projects.
 
 > - Hahn.ApplicatonProcess.December2020.Data
     
-    This project contain all stuff related to data repository.
+    This project contains all stuff related to data repository.
+    
+> - Hahn.ApplicatonProcess.December2020.Domain
+
+    This project contains all classes related to system core business.
+
 
